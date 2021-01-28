@@ -2,19 +2,19 @@
 
 Using Template Matching able to find the part of or specific feature in image and also we can create object detection annotation using template-matching 
 
-Input Image
+## Input Image
 
-<img src="./assets/b.jpg" width="380" height="280"/> 
+<img src="./assets/b.jpg" width="480" height="280"/> 
 
 
-Feature we need to find:
+### Feature we need to find:
 
-<img src="./assets/a.jpg" width="380" height="280"/> 
+<img src="./assets/a.jpg" width="480" height="280"/> 
 
-In This image ,template matched with input image has showing highest corelation [which has highest brightness spot]
+### In This image ,template matched with input image has showing highest corelation [which has highest brightness spot]
 
-<img src="./assets/intr.png" width="380" height="380"/>
+<img src="./assets/intr.png" width="480" height="380"/>
 
-Output:
+###Output:
 
-<img src="./assets/result.png" width="380" height="380"/>
+<img src="./assets/result.png" width="480" height="380"/>
