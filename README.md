@@ -1,6 +1,6 @@
 # Template_Matching-
 
-Using Template Matching able to find the part of or specific feature in image and also we can create object detection annotation using template-matching 
+Using Template Matching able to find the part of or specific feature in image and also we can create object detection annotations using template-matching 
 
 ## Input Image
 
