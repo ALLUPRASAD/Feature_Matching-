@@ -9,7 +9,7 @@ Using Template Matching able to find the part of or specific feature in image an
 
 ### Feature we need to find:
 
-<img src="./assets/a.jpg" width="480" height="280"/> 
+<img src="./assets/a.jpg" width="280" height="180"/> 
 
 ### In This image ,template matched with input image has showing highest corelation [which has highest brightness spot]
 
@@ -17,4 +17,4 @@ Using Template Matching able to find the part of or specific feature in image an
 
 ###Output:
 
-<img src="./assets/result.png" width="480" height="380"/>
+<img src="./assets/result.png" width="520" height="380"/>
